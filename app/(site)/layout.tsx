@@ -18,10 +18,26 @@ export default function RootLayout({
   return (
     <html lang="ar" suppressHydrationWarning >
       <head>
-      <title> WEBLED | شريكك للتحول الرقمي</title>
-      <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="Built with Next.js and TypeScript" />
-      <link rel="icon" href="/images/favicon.png" />
+        <meta name="description" content="شركة WEBLED هي شركة برمجيات متخصصة في تطوير الحلول البرمجية وتصميم المواقع في الوطن العربي. نقدم حلولًا فعّالة ومبتكرة لعملائنا لتحقيق أهدافهم الرقمية." />
+        <meta name="keywords" content="شركة WEBLED, برمجيات, تطوير, تصميم مواقع, الوطن العربي" />
+        <title>شركة WEBLED - حلول برمجية وتصميم مواقع في الوطن العربي</title>
+        <meta name="language" content="العربية" />
+        <meta name="revisit-after" content="7 days" />
+        <meta name="robots" content="index,follow" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Language" content="ar" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <link rel="canonical" href="https://www.webled.org/" />
+        <meta name="publisher" content="شركة WEBLED" />
+        <meta name="copyright" content="Copyright © 2024 شركة WEBLED" />
+        <meta property="og:title" content="شركة WEBLED - حلول برمجية وتصميم مواقع في الوطن العربي" />
+        <meta property="og:description" content="شركة WEBLED هي شركة برمجيات متخصصة في تطوير الحلول البرمجية وتصميم المواقع في الوطن العربي. نقدم حلولًا فعّالة ومبتكرة لعملائنا لتحقيق أهدافهم الرقمية." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.webled.org/" />
+        <meta property="og:image" content="https://www.webled.com/images/favicon.png" />
+        <link rel="icon" href="/images/favicon.png" />
       </head>
       <body className={`dark:bg-[#010016] `}>
         <ThemeProvider
