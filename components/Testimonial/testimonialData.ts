@@ -66,4 +66,12 @@ export const testimonialData: Testimonial[] = [
     content:
       "افضل تعامل ومصداقية واحترافية في الشغل وباذن الله رقم واحد في الوطن العربي قريب جدا ",
   },
+    {
+    id: 9,
+    name: "Discovery World Center ",
+    designation: " مركز تعليمي ",
+    image: "https://i.ibb.co/wMcWgrH/408898176-908137704649194-2949208345489564918-n.jpg",
+    content:
+      "مهندس زياد شخصيه محترمه ... ومتعاون جدا وصبور ... التعامل معاه مريح ",
+  },
 ];
