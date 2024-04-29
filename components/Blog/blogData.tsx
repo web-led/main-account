@@ -3,6 +3,14 @@ import { Blog } from "@/types/blog";
 const BlogData: Blog[] = [
   {
     _id: 1,
+    mainImage: "https://i.ibb.co/bsYcGbx/Macbook-Air-webled-online-1.png",
+    title: "Discovery World Center ",
+    metadata:
+      "منصة مركز تعليمي للغة الانجليزية",
+    link: "https://webled.online/",
+  },
+  {
+    _id: 1,
     mainImage: "https://i.ibb.co/CQTqmXH/image.png",
     title: "منصة مستر احمد محمود ",
     metadata:
